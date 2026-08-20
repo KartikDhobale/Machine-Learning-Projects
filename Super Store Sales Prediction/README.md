@@ -714,13 +714,10 @@ The project can be improved by adding:
 
 # 📬 Contact
 
-📧 **Email:** darshanbhor2006@gmail.com
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/darshan-bhor
+📧 **Email:** kartikdhobale9657555@gmail.com
 
 🐙 **GitHub:**
-https://github.com/darshanbhor2006
+https://github.com/KartikDhobale/Machine-Learning-Projects.git
 
 ---
 
