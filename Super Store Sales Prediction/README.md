@@ -695,7 +695,7 @@ The project can be improved by adding:
 
 # 👨‍💻 Developer
 
-## Darshan Bhor
+## Kartik Dhobale
 
 **Role:** Machine Learning Developer
 
@@ -745,7 +745,6 @@ https://github.com/KartikDhobale
 
 This project is developed for **educational, learning, and portfolio purposes**.
 
-© 2026 **Darshan Bhor**. All Rights Reserved.
 
 ---
 
