@@ -230,8 +230,3 @@ The resulting model can demonstrate how machine learning can be applied to retai
 
 ---
 
-## Author
-
-**Super Store Sales Prediction**
-
-Machine Learning Project using KNN Regression.
