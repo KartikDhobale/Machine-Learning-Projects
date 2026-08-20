@@ -166,6 +166,4 @@ The **Super Store** project provides a practical approach to working with retail
 
 The project can be further extended with sales forecasting, customer segmentation, product recommendation, and other machine learning techniques.
 
-## Author
 
-**Super Store**
