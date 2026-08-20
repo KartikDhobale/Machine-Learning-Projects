@@ -717,7 +717,7 @@ The project can be improved by adding:
 📧 **Email:** kartikdhobale9657555@gmail.com
 
 🐙 **GitHub:**
-https://github.com/KartikDhobale/Machine-Learning-Projects.git
+https://github.com/KartikDhobale
 
 ---
 
